@@ -67,7 +67,6 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) Healthcare Management
 * Bcrypt.js
 * Multer / Cloudinary (if used)
 * Socket.io (if used)
-<img width="1897" height="956" alt="h1 (2)" src="https://github.com/user-attachments/assets/b60685f6-be52-4de4-ac0a-f06264e186ab" />
 
 ---
 
